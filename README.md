@@ -1,8 +1,8 @@
 # Attention-embedded Deep Reinforcement Learning for Highway Lane Navigation
 
 See here for the report and short ppt:
-https://drive.google.com/file/d/1-j0cHv-IyCzf1BdYGt1Ni-X1n8gNX_78/view?usp=drive_link
-https://docs.google.com/presentation/d/1-jAHBmUzJaIDbUstOdlDh8LHfU66nDYu/edit?usp=drive_link&ouid=112687757016813129635&rtpof=true&sd=true
+- https://drive.google.com/file/d/1-j0cHv-IyCzf1BdYGt1Ni-X1n8gNX_78/view?usp=drive_link
+- https://docs.google.com/presentation/d/1-jAHBmUzJaIDbUstOdlDh8LHfU66nDYu/edit?usp=drive_link&ouid=112687757016813129635&rtpof=true&sd=true
 
 ### Getting started
 Conda environment with python>=3.6 is used during the experiments.
